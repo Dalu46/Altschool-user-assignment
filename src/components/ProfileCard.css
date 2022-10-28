@@ -1,0 +1,17 @@
+.image-icon {
+    border-radius: 50%;
+}
+
+.card {
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    margin-bottom: 3px;
+}
+
+.info-block h2{
+    margin: 0 auto;
+}
